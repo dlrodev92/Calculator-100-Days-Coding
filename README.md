@@ -1,5 +1,5 @@
 # 100-Days-Coding
-Mi personal Journal to go from 0 to full stack in 100 Days.
+#Mi personal Journal to go from 0 to full stack in 100 Days.
 
 The start Point. I already have some knowledge of basic coding I’ve done a couple of courses in JavaScript and c++ so I’m familiar with regular concepts such as “variables, for, while, functions” etc. 
 
