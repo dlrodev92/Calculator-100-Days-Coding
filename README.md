@@ -33,5 +33,5 @@ An example of the README files I have started making
 
 -I have studied the main concept of responsive lyout.
 # Links to work / resources:
-An example of the README files I have started making
+
 
