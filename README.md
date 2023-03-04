@@ -22,5 +22,16 @@ An example of the README files I have started making
 
 -Refresh some more concepts of css expecially Grid and Flexbox.
 # Links to work / resources:
+
+# Day 3
+04rd March
+
+### Today's progress:
+-I have created a form request using flexbox.
+
+-I have studied flexbox and grid.
+
+-I have studied the main concept of responsive lyout.
+# Links to work / resources:
 An example of the README files I have started making
 
