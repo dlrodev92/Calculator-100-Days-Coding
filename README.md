@@ -41,7 +41,7 @@ An example of the README files I have started making
 
 -I have studied flexbox and grid.
 
--I have studied the main concept of responsive lyout.
+-I have studied the main concepts of responsive lyout.
 # Links to work / resources:
 # Day 5
 06th March
@@ -55,7 +55,6 @@ An example of the README files I have started making
 
 -I have studied flexbox and grid.
 
--I have studied the main concept of responsive lyout.
 # Links to work / resources:
 
 # Day 6
@@ -67,8 +66,6 @@ An example of the README files I have started making
 -I have started to recap javaScript usind SoyDalto js Junior course.
 
 -I've checked all the content regarding Variables.
-
--I have studied the main concept of responsive lyout.
 # Links to work / resources:
 
 # Day 7
