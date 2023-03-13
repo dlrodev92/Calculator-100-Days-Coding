@@ -58,4 +58,40 @@ An example of the README files I have started making
 -I have studied the main concept of responsive lyout.
 # Links to work / resources:
 
+# Day 6
+07th March
+
+### Today's progress:
+-I have created a parallax efect website using css and some js.
+
+-I have started to recap javaScript usind SoyDalto js Junior course.
+
+-I've checked all the content regarding Variables.
+
+-I have studied the main concept of responsive lyout.
+# Links to work / resources:
+
+# Day 7
+08th March
+
+### Today's progress:
+-I  studied the operators, strings and the conditions in js.
+-I have done some exercises and programmed a simple program with the concept I studied.
+# Links to work / resources:
+
+# Day 7
+08th March
+
+### Today's progress:
+-I  studied the operators, strings and the conditions in js.
+-I have done some exercises and programmed a simple program with the concept I studied.
+# Links to work / resources:
+
+# Day 7
+08th March
+
+### Today's progress:
+-I  studied the operators, strings and the conditions in js.
+-I have done some exercises and programmed a simple program with the concept I studied.
+# Links to work / resources:
 
