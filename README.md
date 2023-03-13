@@ -76,19 +76,21 @@ An example of the README files I have started making
 -I have done some exercises and programmed a simple program with the concept I studied.
 # Links to work / resources:
 
-# Day 7
-08th March
+# Day 8
+09th March
 
 ### Today's progress:
--I  studied the operators, strings and the conditions in js.
--I have done some exercises and programmed a simple program with the concept I studied.
+-I  studied the loops, arrays, and functions js.
+-I have done some exercises and programmed a simple program using loops and functions.
+it was a very simple calculator using prompt to input data and alert to output data.
 # Links to work / resources:
 
-# Day 7
-08th March
+# Day 9
+12th March
 
 ### Today's progress:
--I  studied the operators, strings and the conditions in js.
--I have done some exercises and programmed a simple program with the concept I studied.
+-I  studied object oriented programming and object on js.
+-I have done some exercises and programmed a simple program using objects.
+The program was a phone features "gallery".
 # Links to work / resources:
 
