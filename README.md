@@ -24,10 +24,34 @@ An example of the README files I have started making
 # Links to work / resources:
 
 # Day 3
-04rd March
+04th March
 
 ### Today's progress:
 -I have created a form request using flexbox.
+
+-I have studied flexbox and grid.
+
+-I have studied the main concept of responsive lyout.
+# Links to work / resources:
+# Day 4
+05th March
+
+### Today's progress:
+-I have created a form request using grid.
+
+-I have studied flexbox and grid.
+
+-I have studied the main concept of responsive lyout.
+# Links to work / resources:
+# Day 5
+06th March
+
+### Today's progress:
+-I have created a fully responsive website lyout with css usign:
+-@mediaQuery
+-Grid
+-Flexbox
+-Some copypaste js code from Chat gpt.
 
 -I have studied flexbox and grid.
 
