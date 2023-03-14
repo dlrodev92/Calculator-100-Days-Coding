@@ -90,7 +90,26 @@ it was a very simple calculator using prompt to input data and alert to output d
 
 ### Today's progress:
 -I  studied object oriented programming and object on js.
+
 -I have done some exercises and programmed a simple program using objects.
 The program was a phone features "gallery".
+# Links to work / resources:
+
+# Day 10
+13th March
+
+### Today's progress:
+-I  started the SCHOOL OF CODE bootcamp!:
+from now on I will be doing 8h plus extra 2h of recap.
+Today it was a brief introduction to the course, get to know the guys and some 
+pre coding concets as problem solving and algorithims exersices.
+
+-On my side I keep studiying the Js course, I could only do 1h of array methods.
+# Links to work / resources:
+# Day 11
+14th March
+
+### Today's progress:
+
 # Links to work / resources:
 
